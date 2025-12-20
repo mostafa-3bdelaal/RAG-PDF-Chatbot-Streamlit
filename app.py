@@ -45,7 +45,7 @@ if pdf_file is not None:
     llm = ChatOpenAI(
     model="llama-3.3-70b-versatile",
     openai_api_base="https://api.groq.com/openai/v1",
-    openai_api_key=os.getenv.get("OPENAI_API_KEY"),  
+    openai_api_key=os.environ.get("OPENAI_API_KEY"),  
     temperature=0.7,
     max_tokens=512
     )
@@ -73,6 +73,7 @@ Context:
         response = retrieval_chain.invoke({"input": query})
         st.markdown("**Answer:**")
         st.write(response["answer"])
+
 
 
 
