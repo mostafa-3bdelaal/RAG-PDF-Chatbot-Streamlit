@@ -36,12 +36,4 @@ A **Retrieval-Augmented Generation (RAG)** application that allows users to uplo
 - Groq API (LLaMA 3)
 - PyPDF
 
----
 
-## 📦 Installation
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/PDF-Question-Answering-RAG.git
-cd PDF-Question-Answering-RAG
