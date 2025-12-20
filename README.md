@@ -36,4 +36,5 @@ A **Retrieval-Augmented Generation (RAG)** application that allows users to uplo
 - Groq API (LLaMA 3)
 - PyPDF
 
+## run code: python -m streamlit run "file path"
 
