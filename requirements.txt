@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-core
+chromadb
+fastembed
+pypdf
+python-dotenv
