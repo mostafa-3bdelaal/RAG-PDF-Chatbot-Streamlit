@@ -37,4 +37,6 @@ A **Retrieval-Augmented Generation (RAG)** application that allows users to uplo
 - PyPDF
 
 ## run code: python -m streamlit run "file path"
+## link streamlit: https://mostafa-3bdelaal--rag-pdf-chatbot-app.streamlit.app
+
 
