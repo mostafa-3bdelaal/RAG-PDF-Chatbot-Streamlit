@@ -1,9 +1,5 @@
-streamlit
-langchain
-langchain-community
-langchain-openai
-langchain-core
-chromadb
-fastembed
-pypdf
-python-dotenv
+langchain==0.1.17
+langchain-community==0.0.34
+langchain-core==0.1.53
+chromadb==0.4.24
+protobuf==4.25.3
