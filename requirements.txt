@@ -3,7 +3,8 @@ langchain
 langchain-community
 langchain-openai
 langchain-core
-chromadb
-fastembed
+chromadb==0.4.22
+fastembed==0.2.7
 pypdf
 python-dotenv
+protobuf==3.20.3
