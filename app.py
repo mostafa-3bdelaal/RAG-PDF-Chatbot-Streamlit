@@ -12,7 +12,7 @@ from langchain_core.messages import HumanMessage
 from dotenv import load_dotenv
 import os
 
-load_dotenv(r"C:\2_ projects\NLP\PDF Question Using RAGs\OPENAI_API_KEY.env") 
+load_dotenv("GROQ_API_KEY.env") 
 
 st.set_page_config(page_title="PDF Question Answering", layout="wide")
 st.title("📄 PDF Question Answering with RAG")
